@@ -14,6 +14,7 @@ organized? How would branches help?
 When you are doing something experimental in nature.
 
 How do the diagrams help you visualize the branch structure?
+With the diagrams, I can understand the reachability concept very well.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
