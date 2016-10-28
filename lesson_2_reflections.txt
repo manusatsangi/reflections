@@ -18,6 +18,7 @@ With the diagrams, I can understand the reachability concept very well.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Commits related to both the branches can be accessible in the merged branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
