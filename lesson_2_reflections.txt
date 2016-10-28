@@ -22,3 +22,4 @@ Commits related to both the branches can be accessible in the merged branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros of Automatic Merging is that it can be done quickly and without much effort. Cons are that automatic merge cannot be done all the time.
